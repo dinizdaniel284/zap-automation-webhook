@@ -1,39 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Agência%20IA%20Diniz&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  
+# 🤖 AGÊNCIA IA DINIZ 🤖
+### ⚡ Zap Automation & Web3 Monitoring ⚡
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dmZ3ZzRyeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxvfVlYMMtW/giphy.gif" width="400" />
+[![Status](https://img.shields.io/badge/STATUS-OPERATING-00FF00?style=for-the-badge&logo=statuspage&logoColor=white)]()
+[![Focus](https://img.shields.io/badge/FOCUS-AUTOMATION-8A2BE2?style=for-the-badge&logo=robot&logoColor=white)]()
+[![Tech](https://img.shields.io/badge/WEB3-READY-00FFFF?style=for-the-badge&logo=ethereum&logoColor=white)]()
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Operating-brightgreen?style=for-the-badge&logo=statuspage" />
-    <img src="https://img.shields.io/badge/Focus-Automation-blueviolet?style=for-the-badge&logo=robot" />
-    <img src="https://img.shields.io/badge/Web3-Ready-cyan?style=for-the-badge&logo=ethereum" />
-  </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
 </div>
+
+## 🌌 Visão Geral
+O sistema **Agência IA Diniz** é uma infraestrutura robusta de automação. Atualmente operando o fluxo inteligente da **Loja da Glacy**, o software transforma mensagens brutas em conversões de vendas.
+
+### 🛠️ Stack Tecnológica Neon
+| Tecnologia | Função | Badge |
+| :--- | :--- | :--- |
+| **Node.js** | Runtime | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Baileys** | WhatsApp API | ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
+| **JavaScript** | Core Logic | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Git** | Versionamento | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-## ⚡ Sobre o Projeto: Zap Automation Webhook
-O sistema **Agência IA Diniz** não é apenas um bot, é uma plataforma de automação inteligente focada em escalar negócios reais, como a **Loja da Glacy** (vendas de cosméticos e skincare).
+## 🎯 Funcionalidades de Elite
+* ✅ **Fluxo de Atendimento**: Menu interativo automatizado.
+* ✅ **Performance**: Respostas em milissegundos.
+* ✅ **Segurança**: Versionamento limpo e `.env` protegido.
+* 🚀 **Próximo Nível**: Implementação de auditoria de Smart Contracts (Web3).
 
-### 🛠️ Stack Tecnológica (Neon Badges)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
-## 🎯 Funcionalidades Ativas
-- [x] **Autenticação Multi-Device**: Conexão estável via QR Code.
-- [x] **Menu Dinâmico**: Navegação intuitiva para o cliente (Produtos, Preços, Endereço).
-- [x] **Log de Operação**: Monitoramento em tempo real no terminal.
-- [ ] **Integração Web3**: Futuro monitoramento de riscos em Smart Contracts.
-
-## 🚀 Como Iniciar
+## ⚙️ Instalação Rápida
 ```bash
-# Clone o repositório
+# Clone o projeto
 git clone [https://github.com/dinizdaniel284/zap-automation-webhook.git](https://github.com/dinizdaniel284/zap-automation-webhook.git)
 
-# Instale as dependências
+# Entre na pasta
+cd zap-automation-webhook
+
+# Instale os módulos (limpos e ignorados pelo git)
 npm install
 
-# Inicie o modo Inteligente
+# Execute o motor
 node bot_raiz.js
